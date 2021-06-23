@@ -32,7 +32,7 @@ MRI data includes surface measures for 259 term-born and 76 preterm infants scan
 
 Christiaens, D. et al., "Scattered slice SHARD reconstruction for motion correction in multi-shell diffusion MRI", Neuroimage 225 (2021):117437. [link](https://www.sciencedirect.com/science/article/pii/S1053811920309228)
 
-Dimitrova, R. et al. "Preterm birth alters the development of cortical microstructure and morphology at term-equivalent age", bioRxiv, (2021), https://doi.org/10.1101/2021.06.03.446550. [link](https://www.biorxiv.org/content/10.1101/2021.06.03.446550v1.abstract)
+Dimitrova, R. et al. "Preterm birth alters the development of cortical microstructure and morphology at term-equivalent age", bioRxiv, (2021). [link](https://www.biorxiv.org/content/10.1101/2021.06.03.446550v1.abstract)
 
 Makropoulos, A. et al. "The developing human connectome project: A minimal processing pipeline for neonatal cortical surface reconstruction." Neuroimage 173 (2018): 88-112. [link](https://www.sciencedirect.com/science/article/abs/pii/S1053811918300545?via%3Dihub)
 
