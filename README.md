@@ -3,7 +3,7 @@
 
 ### *Summary:* ###
 
-Jupyter Notebooks & data for recreating the main analyses in [Dimitrova et al., (2021)](https://www.biorxiv.org/content/10.1101/2021.06.03.446550v1.abstract) Preterm birth alters the development of cortical microstructure and morphology at term-equivalent age. For further details on pre-processing & analysis, please refer to the paper. 
+Jupyter Notebooks & data for recreating the main analyses in [Dimitrova et al., (2021)](https://www.biorxiv.org/content/10.1101/2021.06.03.446550v1.abstract) Preterm birth alters the development of cortical microstructure and morphology at term-equivalent age. For further details on pre-processing and analysis, please refer to the paper. 
 
 
 MRI data includes surface measures for 259 term-born and 76 preterm infants scanned at term-equivalent age for the [developing Human Connectome Project](http://www.developingconnectome.org/), preprocessed using the [dHCP structural](https://github.com/BioMedIA/dhcp-structural-pipeline) [(Makropoulos et al., 2018)](https://pubmed.ncbi.nlm.nih.gov/29409960/) & dHCP diffusion [(Christiaens et al., 2021)](https://www.sciencedirect.com/science/article/pii/S1053811920309228) pipelines. 
