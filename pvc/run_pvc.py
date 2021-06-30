@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
+# [RD]: modified from Sean Fitzgibbon's original fMRI code in 
+# [RD]: https://git.fmrib.ox.ac.uk/seanf/dhcp-neonatal-fmri-pipeline/-/blob/90f2f7317fff0cd809d0b1b4a400d970c1ea115c/doc/surface.md
 
 # In[ ]:
 
